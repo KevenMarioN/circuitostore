@@ -24,7 +24,7 @@
   
  ### Solução ainda terá ajuste e mudanças
   
- ### Aplicação para facilitar a vida do comerciante, aplicativo para desenvolver e aprender novas habilidades! :star:
+ ### Aplicação para facilitar a vida do comerciante, solução para desenvolver e aprender novas habilidades! :star:
  - [ ] API
  - [ ] WEB
  - [ ] Mobile
